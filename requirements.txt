@@ -1,0 +1,7 @@
+
+#The requirements.txt file in a Python project lists all the external dependencies (packages) required to run the project
+# and also  allows for easy installation of dependencies using a single command
+pandas
+numpy
+seaborn
+-e .
